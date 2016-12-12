@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_91496d2db34241cd9b033120889856867fde1beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca782461b23ba9f634bdc076657288861ac10f13">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1fd4104a60baef1ea02a5533e95c5c7d949014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2c71a583eb3e47015e6363b3e6b50a8d96f03c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/libs/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_c9ab570e0ddc6c4a344eb03db159b05bf67fd1f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_2782a7940fe16b6c0addb537af3ddccd3d920d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="536e154bbcfc0dbe035ae2142c03d357421d2268">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8715f887fc73ad610c32a8a708fa69bb29e17601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_926297ea2b78b110764b3289be6577d819a823f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_f8c385e8ea78b810697e0d519297f3be25c3f553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/libs/httpcore-4.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.3_fcbe9b0500bf43fc0da6edd45c8e4b068942bf72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e6722900c9e460438c423c33c3c49f644ef70aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_4a34eda4161b93c72786d86ce88b281b834bd70b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_05a4f2446a7eff5d65362f1a4e649cf02c0037bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_52945a57f98d492bbe29671aed9aa0897af34e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_155c0a85b0ce32858fd0d9dc4715baf3f09aa3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_97808f3a52542c33f16438c2f387ae382f09a7e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_89a05bb608729cb47f0a2871ad058053ebdff053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_76ebb83025df547e006ab15f0779b07a974bac8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_66f34bff44cd94690b9e65054f062e167e4f047d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_641ae02f79660a689cbab921d0254ac2139656bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kelly/Desktop/CloudVideo/app/libs/httpmime-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.6_c7520ca7c76e3e543168c33cd90643df71c1648e/classes.dex" />
+    </item>
+
+</items>

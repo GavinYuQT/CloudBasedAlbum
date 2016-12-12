@@ -1,0 +1,7 @@
+#Wed Dec 07 15:37:26 HKT 2016
+base.0=/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8715f887fc73ad610c32a8a708fa69bb29e17601
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1fd4104a60baef1ea02a5533e95c5c7d949014/classes.dex
+base.1=/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f1fd4104a60baef1ea02a5533e95c5c7d949014
+file.0=/Users/kelly/Desktop/CloudVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8715f887fc73ad610c32a8a708fa69bb29e17601/classes.dex

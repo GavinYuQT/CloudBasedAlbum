@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\libs\httpmime-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\httpmime-4.3.6_7feb79874e56ed6e2f011d95e12ad1699690a4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_f51ab08b4e516be6e6e669ce7af3f1ce79aa6802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_667981ed3ac4ba5c660048e4036fc15300f7bcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_13a6b2e6e73becfa0961b5f0057682281bbeff64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d1ddead5891160b3ca23efbdbe82c1da3efe872e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4ea55a5db2b33081588b1375c90e59386c2b3d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a1045591aa1af56e08d40a2230389e07369563ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_12cb78004bd771587a39d053f043a28edbb8eda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_1238366fbb4ad5807cd02678e799899b5662a66c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\libs\httpcore-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\httpcore-4.3.3_16cd183abad338ce571b14d97a9345160982675b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_7b80a6b751e1a54eefa63b4a13074ce4fe41dcd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_364e7e86c363514da9601a157ea2cbab941d580e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_0f93d2403ef87de9ebc7646fd437affdd82a983b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_129b442c99f60b331acec23f1d45755d4a69478e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e5841593c95cb6f5fa43974b705bb56987fbe9b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_019702c7e79498619f2ac004785d7ec59862be3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_27f4b3fac690a78554cf4361c6cc85dfded15314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\7506\assignment2\CloudVideo\CloudVideo\app\libs\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="D:\7506\assignment2\CloudVideo\CloudVideo\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_905e6b5b5b18daaed9c25e0e73a65ff6317551f1.jar" />
+    </item>
+
+</items>
